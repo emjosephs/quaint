@@ -4,8 +4,8 @@
 #' @param myQpc is the output of the CalcQpc function
 #' @param myEig is the output of the eigenvalue function applied to the kinship matrix. It includes both vectors and values.
 #' @param traitValues is vector of traits. Not normalized yet.
-#' @populationLabels is a list of population labels in the same order as the other inputs
-#' @testPCs is the numbers of the PCs used to test for selection
+#' @param populationLabels is a list of population labels in the same order as the other inputs
+#' @param testPCs is the numbers of the PCs used to test for selection
 #' @export
 
 
